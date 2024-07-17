@@ -1,6 +1,6 @@
 # Hi, I'm Chandana Koganti! 👋
 
-![Profile Banner]([https://your-image-url.com/banner.jpg](https://cdn1.expresscomputer.in/wp-content/uploads/2022/11/21123050/EC_Data_Science_Technology_750.jpg))
+![Profile Banner]([https://cdn1.expresscomputer.in/wp-content/uploads/2022/11/21123050/EC_Data_Science_Technology_750.jpg))
 
 👀 I’m interested in **Machine Learning** and **Web Development**.
 🌱 I’m currently learning **Data Science**.
