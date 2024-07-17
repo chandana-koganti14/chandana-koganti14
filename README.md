@@ -1,6 +1,6 @@
 # Hi, I'm Sai Chandana Koganti! 👋
 
-![Profile Banner](https://imageio.forbes.com/specials-images/imageserve/615a844b0e678d9d11c5fc26/The-5-Biggest-Data-Science-Trends-In-2022/960x0.jpg?format=jpg&width=1440)
+![Profile Banner](https://media.licdn.com/dms/image/D4D16AQFH1YY0-Q3k5w/profile-displaybackgroundimage-shrink_200_800/0/1692120209719?e=2147483647&v=beta&t=ggGMDtJvXHDgod6YvEcFcz73UA--sJgRVcv30SaIsdU)
 
 👀 I’m interested in **Machine Learning** and **Web Development**.
 🌱 I’m currently learning **Data Science**.
