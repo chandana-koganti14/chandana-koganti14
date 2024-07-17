@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chandana-koganti14
-- 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...Programming skills
+- 👀 I’m interested in Machine Learning, Web development
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...MNC company's
 - 📫 How to reach me ...koganti.saichandana14@gmail.com
 
