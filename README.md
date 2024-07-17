@@ -23,7 +23,11 @@ I am currently pursuing a Master's in Computer Science and working as a Graduate
 - 🌱 Continuously learning and exploring new technologies in Data Science.
 - 💬 Ask me about anything tech-related, I'm happy to help!
 
-![Machine Learning](https://i.pinimg.com/736x/7f/32/67/7f3267e10c433b2d9b79d148d9335a3d.jpg) ![Web Development](https://5.imimg.com/data5/DT/VF/II/SELLER-32719958/web-development-company-in-pune-500x500.jpg) ![Data Science](https://media.licdn.com/dms/image/C4D12AQFexqNCOjM8AA/article-cover_image-shrink_600_2000/0/1601299017497?e=2147483647&v=beta&t=zhrd6Sl0U6TJANU9MlgFLBaNasRqrmPeqzi9ysKYh9M)
+<p align="center">
+  <img src="https://i.pinimg.com/736x/7f/32/67/7f3267e10c433b2d9b79d148d9335a3d.jpg" alt="Machine Learning" width="100" height="100">
+  <img src="https://5.imimg.com/data5/DT/VF/II/SELLER-32719958/web-development-company-in-pune-500x500.jpg" alt="Web Development" width="100" height="100">
+  <img src="https://media.licdn.com/dms/image/C4D12AQFexqNCOjM8AA/article-cover_image-shrink_600_2000/0/1601299017497?e=2147483647&v=beta&t=zhrd6Sl0U6TJANU9MlgFLBaNasRqrmPeqzi9ysKYh9M" alt="Data Science" width="100" height="100">
+</p>
 
 ## GitHub Stats
 
