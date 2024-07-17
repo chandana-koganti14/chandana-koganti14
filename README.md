@@ -3,8 +3,11 @@
 ![Profile Banner](https://media.licdn.com/dms/image/D4D16AQFH1YY0-Q3k5w/profile-displaybackgroundimage-shrink_200_800/0/1692120209719?e=2147483647&v=beta&t=ggGMDtJvXHDgod6YvEcFcz73UA--sJgRVcv30SaIsdU)
 
 👀 I’m interested in **Machine Learning** and **Web Development**
+
 🌱 I’m currently learning **Data Science**
+
 🔭 I’m looking to collaborate with **MNC companies**
+
 📫 How to reach me: [kogantisai67@gmail.com](mailto:kogantisai67@gmail.com)
 
 ## About Me
