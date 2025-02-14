@@ -1,6 +1,6 @@
 # Hi, I'm Sai Chandana Koganti! 👋
 
-![Profile Banner](https://media.licdn.com/dms/image/D4D16AQFH1YY0-Q3k5w/profile-displaybackgroundimage-shrink_200_800/0/1692120209719?e=2147483647&v=beta&t=ggGMDtJvXHDgod6YvEcFcz73UA--sJgRVcv30SaIsdU)
+![Profile Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flukasz-staniszewski%2Fml-algorithms-scratch%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw3BtBdtnHjlUdfLfWCuimIW&ust=1739580464648000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLD966_4wYsDFQAAAAAdAAAAABAR)
 
 👀 I’m interested in **Machine Learning** and **Web Development**
 
